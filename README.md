@@ -1,4 +1,4 @@
-# 📊 Financial Dashboard  
+# 📊 Next.js Financial Dashboard  
 
 A full-stack financial dashboard built with Next.js, featuring authentication, data management, and performance optimizations.  
 
